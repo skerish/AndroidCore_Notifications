@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidCore_Notifications</string>
+    <string name="notify">Notify Me</string>
+    <string name="update">Update Me</string>
+    <string name="cancel">Cancel me</string>
+</resources>
